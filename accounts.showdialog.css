@@ -1,0 +1,19 @@
+h1
+{
+    text-align: center;
+    color: darkblue;
+}
+#showtable
+{
+    width:80%;
+}
+tr th
+{
+    background-color: darkblue;
+    color: white;
+}
+tr:nth-child(2n+1)
+{
+    background-color: darkblue;
+    color:white;
+}
