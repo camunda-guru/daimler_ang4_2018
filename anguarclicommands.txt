@@ -1,0 +1,10 @@
+npm install @angular/cli -g
+npm install -g @angular/cli@1.4.10
+ng new myproject 
+ng new myproject --ng4 
+ng serve
+ng serve –prod
+ng build –prod –aot
+
+
+http://localhost:4200
